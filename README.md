@@ -26,7 +26,7 @@ A curated list of awesome plugins, tutorials and other cool resources for Filame
   - [News](#news)
 
 ## Demo
-[Interimblue Demo](https://interimblue.com)
+[Interimblue Demo](https://interimblue.com) - See Filament in action
 
 ## Plugins
 
@@ -48,7 +48,7 @@ A curated list of awesome plugins, tutorials and other cool resources for Filame
 * [Environment Indicator](https://github.com/pxlrbt/filament-environment-indicator) - Never confuse your tabs with different Filament environments again.
 * [Error Mailer](https://github.com/hugomayo7/filament-error-mailer) - Instant e-mail alerts on web errors
 * [Exception Viewer](https://github.com/bezhanSalleh/filament-exceptions) - Exception Viewer plugin for your Filament Panels
-* [Factory Action](https://github.com/codewithdennis/filament-factory-action) - Easy generation of test records for your database tables using your Laravel Factory definitions
+* [Factory Action](https://github.com/codewithdennis/filament-factory-action) - Easy generation of test records for your database tables
 * [Firewall](https://github.com/solutionforest/filament-firewall) - Manage Firewall under Filament Admin Panel.
 * [Job Monitor](https://github.com/croustibat/filament-jobs-monitor) - Monitor your queues from a panel
 * [Laravel Log](https://github.com/saade/filament-laravel-log) - Read Laravel logs from the Filament admin panel.
@@ -62,7 +62,7 @@ A curated list of awesome plugins, tutorials and other cool resources for Filame
 * [Onboarding Manager Pro](https://filamentphp.com/plugins/ralphjsmit-onboarding-manager-pro) - Beautiful onboarding experiences for Filament Admin.
 * [Panel Roles](https://github.com/shanerbaner82/panel-roles) - Filament Panel Roles is an intuitive way
 * [Panel Switch](https://github.com/bezhanSalleh/filament-panel-switch) - Easily switch between panels in Filament.
-* [Password Confirmation](https://github.com/juliomotol/filament-password-confirmation) - Prompt users to re-enter their password before performing sensitive actions.
+* [Password Confirmation](https://github.com/juliomotol/filament-password-confirmation) - Re-enter password before performing sensitive actions.
 * [Password Input](https://github.com/rawilk/filament-password-input) - Enhanced password input component for filament.
 * [Peek](https://github.com/pboivin/filament-peek) - Add a full-screen preview modal
 * [Route Statistics](https://github.com/amendozaaguiar/filament-route-statistics) - This package provides a page for Laravel Route Statistics.
@@ -71,7 +71,7 @@ A curated list of awesome plugins, tutorials and other cool resources for Filame
 * [Shield](https://github.com/bezhanSalleh/filament-shield) - Access management to your Filament Panel's Resources
 * [Shout](https://github.com/awcodes/shout) - A simple inline contextual notice for Filament Forms
 * [Spotlight](https://github.com/pxlrbt/filament-spotlight) - Quickly navigate your Filament Resources with Spotlight functionality.
-* [SuperDuper Starter Kit](https://github.com/riodwanto/superduper-filament-starter-kit) - Features a Custom Theme, Mail Configuration, Shield, Exception, and more!
+* [SuperDuper Starter Kit](https://github.com/riodwanto/superduper-filament-starter-kit) - Custom Theme, Mail Configuration, Shield, Exception, and more!
 * [Timezone Field](https://github.com/omar-haris/filament-timezone-field) - Component that enables users to choose a specific timezone
 * [Timezone Field](https://github.com/TappNetwork/filament-timezone-field) - Timezone select field.
 * [Tour](https://github.com/JibayMcs/filament-tour) - Bring the power of DriverJs to your Filament panels
@@ -88,7 +88,7 @@ A curated list of awesome plugins, tutorials and other cool resources for Filame
 ### Developer Tools
 * [API CRUD Generator](https://github.com/awcodes/filament-api-crud-generator) - Generate API CRUD functions from your Laravel Models
 * [Component Builder](https://github.com/webdave.de/filament-component-builder) - Drag and drop builder for pages
-* [GPT Trix Editor](https://github.com/pboivin/filament-gpt-editor) - A powerful text editor powered by GPT-3.5, capable of generating coherent and contextually relevant text.
+* [GPT Trix Editor](https://github.com/pboivin/filament-gpt-editor) - A powerful text editor, capable of generating contextually relevant text.
 * [Panel Custom Fields](https://github.com/pxlrbt/filament-panel-custom-fields) - Quickly add custom fields to your resources in Filament
 
 ### Integrations & API
