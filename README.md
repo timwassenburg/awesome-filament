@@ -79,6 +79,7 @@ A curated list of awesome plugins, tutorials and other cool resources for Filame
 
 ### Content & Media Management
 * [Curator](https://filamentphp.com/plugins/awcodes-curator) - A media manager / picker plugin for Filament Panels.
+* [FilaRank](https://filarank.com) - SEO toolkit for Filament: live scoring, SERP preview, head tag rendering, redirect manager, and site-wide health reports. ([Docs](https://docs.filarank.com))
 * [Gallery](https://filamentphp.com/plugins/grz-adamczyk-gallery) - Experience gallery management like never before
 * [Image Library](https://github.com/outer-web/filament-image-library) - Adds an image library resource to Filament.
 * [Media Library Manager](https://github.com/pxlrbt/filament-media-library-manager) - Easily manage your media library
