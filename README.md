@@ -33,6 +33,7 @@ A curated list of awesome plugins, tutorials and other cool resources for Filame
 ### Administration & Management
 * [API Service](https://github.com/rupadana/filament-api-service) - A simple API service for supporting Filament resources.
 * [Access Secret](https://github.com/dasundev/filament-access-secret) - Secures access to Filament by requiring a secret key in the URL.
+* [Accounts Builder](https://github.com/tomatophp/filament-accounts) - Manage customer, vendor and agent accounts in one table, with multi-auth and API.
 * [Activity Log](https://github.com/noxoua/filament-activity-log) - Add-on for simplified activity logging based on spatie package.
 * [Activity Log](https://github.com/pxlrbt/filament-activity-log) - Add a Filament page that nicely shows your spatie/laravel-activitylog.
 * [Activity Timeline](https://github.com/199ocero/activity-timeline) - Add timelines to custom pages or infolist entries effortlessly.
@@ -78,12 +79,14 @@ A curated list of awesome plugins, tutorials and other cool resources for Filame
 * [Webhook Server](https://github.com/MarJose123/filament-webhook-server) - Send webhooks from Filament apps.
 
 ### Content & Media Management
+* [CMS](https://github.com/tomatophp/filament-cms) - Posts, pages, categories and tags with meta fields and imports.
 * [Curator](https://filamentphp.com/plugins/awcodes-curator) - A media manager / picker plugin for Filament Panels.
 * [FilaRank](https://filarank.com) - SEO toolkit for Filament: live scoring, SERP preview, head tag rendering, redirect manager, and site-wide health reports. ([Docs](https://docs.filarank.com))
 * [Gallery](https://filamentphp.com/plugins/grz-adamczyk-gallery) - Experience gallery management like never before
 * [Image Library](https://github.com/outer-web/filament-image-library) - Adds an image library resource to Filament.
 * [Media Library Manager](https://github.com/pxlrbt/filament-media-library-manager) - Easily manage your media library
 * [Media Library](https://github.com/talvbansal/media-library) - Integration of talvbansal/media-library with filament.
+* [Media Manager](https://github.com/tomatophp/filament-media-manager) - Manage media files and folders with Spatie Media Library and pick them from forms.
 * [Unsplash Picker](https://github.com/rawilk/filament-unsplash-picker) - Easily add Unsplash images to your Filament Resources
 
 ### Developer Tools
